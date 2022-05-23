@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Rita';
+    src: url('Rita-UltraBold.woff2') format('woff2'),
+        url('Rita-UltraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rita';
+    src: url('Rita-Regular.woff2') format('woff2'),
+        url('Rita-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rita';
+    src: url('Rita-Regular.woff2') format('woff2'),
+        url('Rita-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rita';
+    src: url('Rita-Medium.woff2') format('woff2'),
+        url('Rita-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
