@@ -156,6 +156,9 @@
             #inner2  {
                 padding-left: revert;
             }
+            .modal-content{
+                background-size: 866px 2238px !important;
+            }
         }
 
         
@@ -221,14 +224,19 @@
         @media (min-width: 768px){
             .modal-dialog{
                 width: 850px;
-            }
+            }           
+            
         }
+        
 
         .modal-content{
             background-image: url(images/fondos/fondomodal.png);
+            background-repeat: no-repeat;
+            background-size: cover;
         }
-                
-
+        .modal-footer{
+            border-top: none;
+        }
 
 
     </style>
