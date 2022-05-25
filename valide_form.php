@@ -100,8 +100,8 @@ if($arrResponse["success"] == '1'  && $arrResponse["score"] >= 0.5) {
             $mail->isSMTP();                                            // Send using SMTP
             $mail->Host       = 'vmasideas.agency';                    // Set the SMTP server to send through
             $mail->SMTPAuth   = true;                                   // Enable SMTP authentication
-            $mail->Username   = 'pruebaemail@vmasideas.agency';//     'contact@hotelquintaeden.com';                // SMTP username
-            $mail->Password   = 'l5bxFMj0Irvm'; //    '##,FPy74a3VU';                     // SMTP password
+            $mail->Username   = 'lachula.noreplay@vmasideas.agency';//     'contact@hotelquintaeden.com';                // SMTP username
+            $mail->Password   = '8ul2!CVljGc^'; //    '##,FPy74a3VU';                     // SMTP password
             $mail->SMTPSecure = 'ssl';         // Enable TLS encryption; `PHPMailer::ENCRYPTION_SMTPS` also accepted
             $mail->Port       = 465;                                    // TCP port to connect to
             //    $mail->SMTPDebug  = 4;
